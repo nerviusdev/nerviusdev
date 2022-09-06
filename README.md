@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+``js
+const nerviusdev = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Python],
+  tools: [React, Node, Storybook, Styled-Components, Jest, Docker],
+}
+```
 <!--
 **nerviusdev/nerviusdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
