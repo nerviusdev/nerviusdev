@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+![me](https://user-images.githubusercontent.com/99125404/188527563-821ef417-6f00-43e8-b0f4-707d1899bc33.gif)
+
 ```js
 const nerviusdev = {
   pronouns: "he" | "him",
