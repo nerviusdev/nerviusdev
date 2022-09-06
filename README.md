@@ -1,5 +1,3 @@
-### ¡Hey 👋! Soy nerviusdev 👨🏻‍💻
-
 <p align="center" width="300">
    <img align="center" src="https://user-images.githubusercontent.com/99125404/188527563-821ef417-6f00-43e8-b0f4-707d1899bc33.gif" />
    <h3 align="center">¡Hey 👋! Soy nerviusdev 👨🏻‍💻</h3>
@@ -12,8 +10,10 @@
   </a>
 </p>
 
+```js
 const nerviusdev = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python],
   tools: [React, Node, Storybook, Styled-Components, Jest, Docker],
 }
+```
