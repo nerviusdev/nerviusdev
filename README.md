@@ -1,5 +1,5 @@
 ### Hi there 👋
-``js
+```js
 const nerviusdev = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python],
