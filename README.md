@@ -1,25 +1,19 @@
-### Hi there 👋
+### ¡Hey 👋! Soy nerviusdev 👨🏻‍💻
 
-![me](https://user-images.githubusercontent.com/99125404/188527563-821ef417-6f00-43e8-b0f4-707d1899bc33.gif)
+<p align="center" width="300">
+   <img align="center" src="https://user-images.githubusercontent.com/99125404/188527563-821ef417-6f00-43e8-b0f4-707d1899bc33.gif" />
+   <h3 align="center">¡Hey 👋! Soy nerviusdev 👨🏻‍💻</h3>
+</p>
 
-```js
+<p align="center">Soy <strong>Desarrollador Full Stack</strong> con 1 años experiencia.<br />¡Revisa mi contenido 👇!</p>
+<p align="center">
+  <a href="https://twitter.com/nerviusdev" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nerviusdev" height="28px" width="28px" />
+  </a>
+</p>
+
 const nerviusdev = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python],
   tools: [React, Node, Storybook, Styled-Components, Jest, Docker],
 }
-```
-<!--
-**nerviusdev/nerviusdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
