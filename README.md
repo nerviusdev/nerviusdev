@@ -8,7 +8,11 @@
   <a href="https://twitter.com/nerviusdev" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nerviusdev" height="28px" width="28px" />
   </a>
-</p>
+<p align="center">
+  <a href="ภerviusdev#4945" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="nerviusdev" height="28px" width="28px" />
+  </a>
+</
 
 ```js
 const nerviusdev = {
