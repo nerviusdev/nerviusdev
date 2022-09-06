@@ -3,7 +3,7 @@
    <h3 align="center">¡Hey 👋! Soy nerviusdev 👨🏻‍💻</h3>
 </p>
 
-<p align="center">Soy <strong>Desarrollador</strong> con 1 años experiencia.<br />¡Revisa mi contenido 👇!</p>
+<p align="center">Soy <strong>Desarrollador</strong> con 2 años de experiencia.<br />¡Revisa mi contenido 👇!</p>
 <p align="center">
   <a href="https://twitter.com/nerviusdev" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nerviusdev" height="28px" width="28px" />
