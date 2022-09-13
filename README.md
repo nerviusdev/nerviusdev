@@ -12,7 +12,7 @@
 ```js
 const nerviusdev = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Python],
+  code: [Javascript, Typescript, HTML, CSS, Python, c, c++],
   tools: [React, Node, Storybook, Styled-Components, Jest, Docker],
 }
 ```
